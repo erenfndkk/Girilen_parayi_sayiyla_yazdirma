@@ -1,0 +1,1 @@
+# Girilen_parayi_sayiyla_yazdirma
