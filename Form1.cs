@@ -1,15 +1,4 @@
-﻿/****************************************************************************
-**                           SAKARYA ÜNİVERSİTESİ
-**                 BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**                     BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**                    NESNEYE DAYALI PROGRAMLAMA DERSİ
-**                          2021-2022 BAHAR DÖNEMİ
-**
-**                       ÖDEV NUMARASI..........: 2
-**                       ÖĞRENCİ ADI............: Eren Fındık
-**                       ÖĞRENCİ NUMARASI.......: B201210061
-**                       DERSİN ALINDIĞI GRUP...: C
-****************************************************************************/
+
 
 
 using System;
